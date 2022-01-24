@@ -1,8 +1,16 @@
-### Hi there 👋
+
+# Hello fellow developers 👋
+
+
+<img align="left" alt="Laughingson" src="https://github.com/caleno/caleno/blob/main/46A90161-86A2-41DA-A05D-ADCFF0EF5D33.jpg" />
+
+💻 Welcome to my github profile, this is where I keep most of my code.
+
+
 
 <!--
 **caleno/caleno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img align="left" alt="Laughingson" src="https://github.com/caleno/caleno/blob/main/C6F91ABA-BA1C-44E2-B0EB-BB6F04803521.jpg" />
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
