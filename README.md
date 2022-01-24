@@ -2,7 +2,7 @@
 # Hello fellow developers 👋
 
 
-<img align="left" alt="Laughingson" src="https://github.com/caleno/caleno/blob/main/46A90161-86A2-41DA-A05D-ADCFF0EF5D33.jpg" />
+<img align="left" alt="Laughingson" src="https://github.com/caleno/caleno/blob/main/laughingson.gif" />
 
 💻 Welcome to my github profile, this is where I keep most of my code.
 
